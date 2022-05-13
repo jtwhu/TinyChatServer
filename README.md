@@ -17,7 +17,7 @@
 - 使用Redis消息队列作为服务器中间件，基于其发布订阅功能实现跨服务器的消息通信
 - 配置Nginx基于tcp的负载均衡，实现聊天服务器的集群功能，提高后端服务的并发能力
 ### 业务流程
-- incoming......
+- coming soon......
 ### 使用方法
 ~~~
 git clone git@github.com:jtwhu/TinyChatServer.git
@@ -27,6 +27,6 @@ sh autobuild.sh
 ### 后续改进
 - [ ] 使用数据库连接池提高数据库存取性能
 ### 项目总结
-- incoming......
+- coming soon......
 ### 参考资料
 - [1] 施磊．集群聊天服务器．图论科技.2020.7．
