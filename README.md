@@ -28,6 +28,6 @@ sh autobuild.sh
 ### 后续改进
 - [ ] 使用数据库连接池提高数据库存取性能
 ### 项目总结
-- coming soon......
+- [项目总结](./TinyChatServer/notes/总结.md)(updating......)
 ### 参考资料
 - [1] 施磊．集群聊天服务器．图论科技.2020.7．
